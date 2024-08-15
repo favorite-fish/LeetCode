@@ -1,7 +1,7 @@
 package com.ygt.day4;
 
 public class ListNode {
-    int val;
+    public int val;
     public ListNode next;
 
     ListNode() {
